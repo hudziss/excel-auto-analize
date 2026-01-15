@@ -22,7 +22,7 @@ python3 -m streamlit run app.py
 ## Kā lietot
 
 1. Atver lietotni pārlūkā:
-http://localhost:8501
+http://localhost:8502
 
 2. Augšupielādē Excel failu ar paplašinājumu `.xlsx`.
 
